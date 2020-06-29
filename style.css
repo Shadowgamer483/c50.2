@@ -1,0 +1,48 @@
+
+
+ 
+
+.header{
+    background-color:cyan;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+.menu{
+border:solid cyan;
+    margin-right:50px ;
+
+
+
+
+}
+.menu a {
+margin-left: 100px;
+
+
+}
+
+
+a:link{color:cyan}
+
+a:visited{color:cyan}
